@@ -1,11 +1,11 @@
 #1
 num=float(input("enter the number:"))
 if num > 0:
-    print(num,"is positive")
+    print(num,"is postive")
 elif num < 0:
     print(num,"is negative")
 else:
-    print(num,"is not positive and negative")
+    print(num,"is not positive and not negative")
 
 
   
